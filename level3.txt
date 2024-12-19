@@ -1,0 +1,18 @@
+16
+inbox
+copyto 0
+inbox
+copyto 1
+inbox
+outbox
+inbox
+copyto 2
+inbox
+copyto 0
+inbox
+copyto 1
+inbox
+outbox
+inbox
+copyto 2
+
